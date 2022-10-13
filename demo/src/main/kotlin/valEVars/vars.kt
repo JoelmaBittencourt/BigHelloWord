@@ -1,5 +1,7 @@
 package valEVars
 
+import java.time.LocalDateTime
+
 fun main() {
     var contaAlex = 12
     var alex = ""
@@ -17,6 +19,7 @@ fun main() {
         println(conta)
         println(numeroAlex)
         println(jogo)
+
 
 
     }
